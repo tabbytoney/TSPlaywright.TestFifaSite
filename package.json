@@ -1,0 +1,21 @@
+{
+  "name": "tsplaywright.testfifasite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tabbytoney/TSPlaywright.TestFifaSite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tabbytoney/TSPlaywright.TestFifaSite/issues"
+  },
+  "homepage": "https://github.com/tabbytoney/TSPlaywright.TestFifaSite#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.36.1"
+  }
+}

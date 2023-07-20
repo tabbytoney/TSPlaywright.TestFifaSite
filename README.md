@@ -8,4 +8,10 @@ npm init playwright@latest
 
 Running example tests to check installation with command: npx playwright test
 
+Viewed report with: npx playwright show-report
+
+Testing the FIFA site. 
+![image](https://github.com/tabbytoney/TSPlaywright.TestFifaSite/assets/60009709/8d1500b5-5c05-43fe-a41e-6556d47823b8)
+
+
 

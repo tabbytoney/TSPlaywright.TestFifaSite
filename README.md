@@ -13,5 +13,9 @@ Viewed report with: npx playwright show-report
 Testing the FIFA site. 
 ![image](https://github.com/tabbytoney/TSPlaywright.TestFifaSite/assets/60009709/8d1500b5-5c05-43fe-a41e-6556d47823b8)
 
+Demo:
 
+Note: had to timeout to view navigation test because it's so fast
+
+https://github.com/tabbytoney/TSPlaywright.TestFifaSite/assets/60009709/8df47308-b508-4ec5-9eae-f550f2eb53ca
 
